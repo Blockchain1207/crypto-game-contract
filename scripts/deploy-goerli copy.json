@@ -1,0 +1,38 @@
+[
+    {
+        "name": "MockUSDT",
+        "imple": "0xeF1964205a7191CBa975544Fd4a3C6a00558C6EB"
+    },
+    {
+        "name": "USDTVault",
+        "imple": "0x6946e629c119a44C9B54596C081c60984A1Ec60B"
+    },
+    {
+        "name": "Console",
+        "imple": "0x4fE42CcD7c7a7F4cd03EDDD030809329D8e98885"
+    },
+    {
+        "name": "RNG",
+        "imple": "0xA64525E84540c07cF50f1E6aa55A29DeA522227C"
+    },
+    {
+        "name": "House",
+        "imple": "0x0C7AB818D196E894D77F1292FD63Fe61BBe2aCf9"
+    },
+    {
+        "name": "GameDice",
+        "imple": "0x890BbC84bbD143010BC358058ADB5a51b26aC333"
+    },
+    {
+        "name": "GameRoulette",
+        "imple": "0xb990797F87abF26FcCda07d4e9A0d9eeA28F1cb6"
+    },
+    {
+        "name": "GameCoinflip",
+        "imple": "0x93F7d3A19DA956A89488e26c2f92ae4C75Bb96A5"
+    },
+    {
+        "name": "GameRPS",
+        "imple": "0xccC23f0F3c6D9307842505B5899466D20187c712"
+    }
+]
